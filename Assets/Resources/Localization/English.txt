@@ -1,0 +1,71 @@
+play play
+shop shop
+settings settings
+removeAds remove Ads
+language language
+german Deutsch
+english English
+shadows shadows
+character Character
+actualCharacter current character:
+selected selected
+select select
+human people
+animals animals
+fantasy fantasy
+knight knight
+cowboy Cowboy
+pirat pirate
+footballer football player
+unicorn unicorn
+whiteGoast ghost
+greenGoast green ghost
+wizard wizard
+snowman snowman
+lion lion
+fox fox
+snowFox arctic fox
+penguin pinguin
+penguin2 emperor pinguin
+businessPenguin business pingu
+monkey monkey
+panda panda
+grandpanda grandpanda
+fairy fairy
+tutorial tutorial
+beach beach
+forest forest
+vulcano vulcano
+soonAvailable coming soon
+gameNotAvailable You have not unlocked this Level yet.
+chapterNotAvailable You have not unlocked this World yet.
+tutorialStartText Swipe across the screen to jump up, down, left or right. Jump on every Tile to complete the Level.
+tutorial2TileText You have to jump twice on this Tile.
+tutorialJumpTileText On this Tile you will skip over one Tile with your next jump.
+tutorialOccupiedSwitchTileText To be able to jump on a locked Tile, unlock it with the Button!
+tutorialGetHintsText Awesome! You completed 10 Levels, you will get 10 Hints as a Reward! You can use them when you are stuck and in need of help. After one is used the next Tile on the right Path will flash.
+tutorialHintsDescription Great, you learned how to use Hints! But be aware that there could be more than one right Path! Should you choose the wrong one after using a Hint, just try again! Your Hints will be saved until cou complete the Level.
+activateHint Use a Hint!
+activateAnotherHint Use another one!
+newWorld new world available
+perfect perfect
+complete complete
+great great!
+nice nice!
+veryWell very well
+super fantastic!
+aPity a pity
+nextTime next time
+tryAgain try again
+nearly close one!
+freeHint free Hint
+gameNumber Level {X}
+gameplay Rules
+privacyPolicy privacy policy
+hints Hints
+helpHintDescription If your are stuck and in need of help, just tap on the Hint-Symbol. Tap on the Hint Tab to learn more, and how to use them.
+helpHintDescription1 If you are stuck, you can get a Hint which will tell you in what direction you can jump. To use a Hint just tap on the Hint-Symbol. After you used a Hint the next Tile on the right Path will flash.
+helpHintDescription2 Hints can only be activated at the beginning. You have to use them before the first jump. After you used your first Hint you can use another one, after that you can use a third and so on. \nIf you think you know  were to go after a few Hints, try it, your Hints will be saved until you complete the Level. \nKeep in mind that often there is more than one right Path.
+yes yes
+no no
+ok OK

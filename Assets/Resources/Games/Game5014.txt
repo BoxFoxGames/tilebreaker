@@ -1,0 +1,47 @@
+Row: 5
+Column: 5
+Occupied: 1 
+Start: 2 1 
+SwitchTile(0) 
+JumpTile(2) 
+NTile(1) 
+NTile(1) 
+null 
+NTile(1) 
+NTile(2) 
+NTile(2) 
+null 
+null 
+JumpTile(2) 
+NTile(1) 
+NTile(2) 
+NTile(1) 
+null 
+null 
+null 
+JumpTile(2) 
+NTile(1) 
+OccupiedTile(0) 
+null 
+null 
+null 
+null 
+null 
+
+2 1
+1 1
+1 2
+0 2
+0 0
+0 1
+1 1
+1 0
+3 0
+2 0
+2 1
+2 2
+2 3
+4 3
+3 3
+3 2
+2 2

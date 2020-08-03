@@ -1,0 +1,71 @@
+play spielen
+shop Shop
+settings Einstellungen
+removeAds Werbung entfernen
+language Sprache
+german Deutsch
+english English
+shadows Schatten
+character Figuren
+actualCharacter Aktuelle Figur:
+selected ausgewählt
+select auswählen
+human Menschen
+animals Tiere
+fantasy Fantasy
+knight Ritter
+cowboy Cowboy
+pirat Pirat
+footballer Fussball Spieler
+unicorn Einhorn
+whiteGoast Geist
+greenGoast Grüner Geist
+wizard Zauberer
+snowman Schneemann
+lion Löwe
+fox Fuchs
+snowFox Schneefuchs
+penguin Pinguin
+penguin2 Kaiserpinguin
+businessPenguin Business Pingu
+monkey Affe
+panda Panda
+grandpanda opanda
+fairy fee
+tutorial Tutorial
+beach Strand
+forest Wald
+vulcano Vulkan
+soonAvailable Bald verfügbar
+gameNotAvailable Du hast dieses Spiel noch nicht freigeschaltet.
+chapterNotAvailable Du hast diese Welt noch nicht freigeschaltet.
+tutorialStartText Wische über den Bildschirm um in eine bestimmte Richtung zu springen. Springe auf jedes Feld um ein Level abzuschließen.
+tutorial2TileText Auf dieses Feld musst du 2x springen.
+tutorialJumpTileText Wenn du auf diesem Feld stehst, überspringst du ein Feld in eine beliebige Richtung.
+tutorialOccupiedSwitchTileText Um auf ein gesperrtes Feld zu springen, musst du sie vorher mit dem Knopf Freischalten.
+tutorialGetHintsText Glückwunsch! Du hast die ersten 10 Spiele geschafft, als Belohnung bekommst du 5 Hinweise! Du kannst Hinweise einsetzen, wenn du mal nicht weiter weißt. Nachdem du einen eingesetzt hast, blinkt die Feld, auf welches du als nächstes springen musst.
+tutorialHintsDescription Super, du weißt jetzt wie du Hinweise verwenden kannst. Aber denke immer dran: Es kann mehr als nur einen richtigen Weg geben! Solltest du trotz Hinweisen mal einen falschen Weg gehen, kannst du es einfach nochmal probieren. Deine Hinweise werden so lange gespeichert, bis du das Spiel geschafft hast.
+activateHint Benutze einen Hinweis!
+activateAnotherHint Benutze noch einen!
+newWorld neue Welt verfügbar
+perfect perfekt
+complete geschafft
+great klasse!
+nice spitze!
+veryWell sehr gut!
+super super!
+aPity schade
+nextTime nächstes mal
+tryAgain versuchs nochmal
+nearly fast
+freeHint freier Hinweis
+gameNumber Spiel {X}
+gameplay Spielregeln
+privacyPolicy Datenschutz
+hints Hinweise
+helpHintDescription Wenn du mal nicht weiter weißt klicke einfach auf das Hinweis-Symbol. Wie die Hinweise funktionieren erfährst du, wenn du auf den Hinweis-Tab klickst.
+helpHintDescription1 Wenn du mal nicht weiter weißt, kannst du ganz einfach einen Hinweis bekommen um zu erfahren auf welches Feld du als nächstes Springen musst. Diesen Hinweis erhälst du, wenn du auf das Hinweis-Symbol klickst. Das Feld auf welche du als nächstes springen musst wird daraufhin anfangen zu blinken.
+helpHintDescription2 Du kannst Hinweise nur am Anfang einsetzten und nicht mittendrin benutzen. Du musst vor dem ersten Sprung einen Hinweis aktivieren. Wenn du einen Hinweis für den ersten Sprung benutzt hast, kannst du auch einen für den zweiten Sprung benutzen und so weiter. \nWenn du nach ein paar Hinweisen selber wieder versuchen möchtest, den richtigen Weg zu finden, dann kannst du dies jeder Zeit tun. Deine Hinweise bleiben so lange gespeichert, bis du das Spiel einmal geschafft hast. \nDenke aber immer dran, es gibt oftmals mehr als nur einen korrekten Weg.
+yes Ja
+no Nein
+ok OK

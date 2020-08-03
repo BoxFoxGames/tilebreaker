@@ -1,0 +1,30 @@
+Row: 4
+Column: 4
+Occupied: 0
+Start: 3 0
+null
+NTile(1)
+NTile(2)
+NTile(1)
+null
+null
+NTile(1)
+null
+NTile(1)
+null
+JumpTile(2)
+null
+NTile(1)
+NTile(1)
+null
+null
+
+3 0
+2 0
+1 0
+2 0
+2 1
+2 2
+0 2
+0 3
+1 3

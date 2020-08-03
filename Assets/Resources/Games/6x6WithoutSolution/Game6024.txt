@@ -1,0 +1,39 @@
+Row: 6
+Column: 6
+Occupied: 1
+NTile(1)
+JumpTile(2)
+null
+NTile(1)
+NTile(1)
+NTile(1)
+NTile(1)
+NTile(1)
+null
+null
+null
+null
+NTile(1)
+NTile(2)
+NTile(1)
+NTile(1)
+JumpTile(2)
+SwitchTile(0)
+null
+OccupiedTile(0)
+NTile(1)
+NTile(1)
+NTile(1)
+NTile(1)
+null
+NTile(1)
+NTile(2)
+NTile(1)
+NTile(1)
+NTile(1)
+NTile(1)
+NTile(2)
+NTile(1)
+NTile(1)
+NTile(1)
+NTile(1)
